@@ -1,10 +1,10 @@
 ## Hello there! I'm Jonathan Morais!!! 
 <div>
   <a href="https://github.com/Jonmorais/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jonmorais&show_icons=true&theme=tokyonight" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jonmorais&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/Jonmorais/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonmorais&layout=compact&theme=tokyonight" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonmorais&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
