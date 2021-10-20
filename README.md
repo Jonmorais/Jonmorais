@@ -10,7 +10,7 @@
 
 ## About me:
 - 😄 I love to meet new people!
-- 🌱 Studying web-development on **Trybe**.
+- 🌱 Studying web-development on **Trybe**.(Finished React and now on Back-End)
 - :video_game: Someday, I wish to work on a game
 - 🤔 Love to learn about: Communication, Leadership and Emotional intelligence
 
